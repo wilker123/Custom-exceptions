@@ -40,6 +40,14 @@ namespace CustomExceptions
             {
                 Console.WriteLine("Error account: " + e.Message);
             }
+            catch (FormatException e)
+            {
+                Console.WriteLine("FormatException error: " + e.Message);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Unexpected error: " + e.Message);
+            }
         }
     }
 }
