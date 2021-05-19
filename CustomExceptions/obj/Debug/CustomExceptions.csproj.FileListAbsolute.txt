@@ -1,0 +1,3 @@
+C:\Users\josew\Projetos_remotos\inheritance-and-polymorphism\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe.config
+C:\Users\josew\Projetos_remotos\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe.config
+C:\Users\josew\Projetos_remotos\Custom-exceptions\CustomExceptions\bin\Debug\CustomExceptions.exe.config
