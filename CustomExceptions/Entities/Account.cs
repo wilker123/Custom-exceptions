@@ -39,6 +39,9 @@ namespace CustomExceptions.Entities
             {
                 throw new DomainExceptions("Not enough balance!!");
             }
+
+            Balance -= amount;
+
         }
     }
 }
